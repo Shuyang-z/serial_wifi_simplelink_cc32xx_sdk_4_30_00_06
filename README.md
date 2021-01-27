@@ -1,0 +1,1 @@
+# serial_wifi_simplelink_cc32xx_sdk_4_30_00_06
