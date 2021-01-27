@@ -9,5 +9,7 @@
 - dummy-trusted-cert-key
 - trusted-chain.pem
 
+如果不想使用Secure Socket，在serial_wifi.c中直接注释掉#define SERIALWIFI_SECURE_SOCKETS即可。
+
 详见SimpleLink Academy之Wi-Fi Secure Socket:
 https://dev.ti.com/tirex/explore/node?node=AF8lDL29A.MbSvBoBGAJNg__fc2e6sr__LATEST
